@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hola, soy Leidy Buitrago
 
-<!--
-**leidycode26/Leidycode26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de Tecnología en Análisis y Desarrollo de Software
 
-Here are some ideas to get you started:
+En constante aprendizaje y crecimiento profesional, fortaleciendo mis habilidades en desarrollo de software mediante la práctica, la creación de proyectos y la exploración de nuevas tecnologías.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Actualmente aprendiendo
+🐍 Python
+⚡ JavaScript
+🟢 Node.js
+🌐 HTML y CSS
+🗄️ MySQL
+🔧 Git y GitHub
+🎯 Objetivo profesional
+
+Desarrollarme como profesional en el área de tecnología, participando en proyectos que me permitan adquirir experiencia práctica, fortalecer mis habilidades técnicas y contribuir al desarrollo de soluciones innovadoras.
+
+## 📚 En constante crecimiento
+
+✔️ Lógica de programación
+✔️ Desarrollo Web
+✔️ Bases de datos relacionales
+✔️ Control de versiones con Git y GitHub
+✔️ Buenas prácticas de desarrollo
+
+## 🛠️ Herramientas de trabajo
+
+💻 Visual Studio Code
+🔧 Git
+📂 GitHub
+🗄️ MySQL

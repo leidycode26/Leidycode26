@@ -11,7 +11,7 @@ En constante aprendizaje y crecimiento profesional, fortaleciendo mis habilidade
 🌐 HTML y CSS
 🗄️ MySQL
 🔧 Git y GitHub
-🎯 Objetivo profesional
+## 🎯 Objetivo profesional
 
 Desarrollarme como profesional en el área de tecnología, participando en proyectos que me permitan adquirir experiencia práctica, fortalecer mis habilidades técnicas y contribuir al desarrollo de soluciones innovadoras.
 

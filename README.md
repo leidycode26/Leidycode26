@@ -17,11 +17,11 @@ Desarrollarme como profesional en el área de tecnología, participando en proye
 
 ## 📚 En constante crecimiento
 
-## ✔️ Lógica de programación
-##✔️ Desarrollo Web
-##✔️ Bases de datos relacionales
-## ✔️ Control de versiones con Git y GitHub
-##✔️ Buenas prácticas de desarrollo
+✔️ Lógica de programación
+✔️ Desarrollo Web
+✔️ Bases de datos relacionales
+✔️ Control de versiones con Git y GitHub
+✔️ Buenas prácticas de desarrollo
 
 ## 🛠️ Herramientas de trabajo
 
